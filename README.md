@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  ✉️ laulkarom2002@gmail.com
 
 <!---
 codegoddddd/codegoddddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
