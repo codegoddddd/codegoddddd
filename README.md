@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codegoddddd
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development using react
+- 🌱 I’m currently exploring web development using react
 - 💞️ I’m looking to collaborate on web dev projects🤝
 - 📫 How to reach me ...
   ✉️ laulkarom2002@gmail.com
